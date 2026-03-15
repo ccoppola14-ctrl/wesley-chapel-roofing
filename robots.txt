@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wesleychapelroofingpro.com/sitemap.xml
+
+# Disallow any admin or private directories if added later
+# Disallow: /admin/
+# Disallow: /private/
